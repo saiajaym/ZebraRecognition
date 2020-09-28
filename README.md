@@ -14,6 +14,9 @@ The dataset consists of 824 images of 47 zebras. About 130 of them have been lab
 
 Sample annotated images:
 
+![labled data](./images/Picture1.png)
+![labled data 2](./images/Picture2.png)
+![labled data 3](./images/Picture3.png)
 
 
 ## Model: MaskRCNN
@@ -22,8 +25,8 @@ Our approach uses a pretrained MaskRCNN available in [detectron2](https://github
 
 Sample output images:
 
-
-
+![potput1](./images/Picture4.png)
+![potput1](./images/Picture5.png)
 
 
 
